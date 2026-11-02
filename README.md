@@ -52,11 +52,11 @@ Legajo técnico de ingeniería de detalle y proyecto ejecutivo para la instalaci
 
 ## 📁 Archivos Adjuntos y Fuentes
 
-El proyecto cuenta con el legajo completo y sus fuentes de ingeniería en la raíz del repositorio:
+El proyecto cuenta con el legajo completo y sus fuentes organizadas en carpetas independientes:
 
-- 📄 **Legajo Ejecutivo (PDF):** [`PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.pdf`](./PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.pdf)
-- 📐 **Plano CAD (.dwg):** [`PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.dwg`](./PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.dwg)
-- 📊 **Planilla de Cálculo (.xlsx):** [`PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.xlsx`](./PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.xlsx)
+- 📄 **Legajo Ejecutivo (PDF):** [`pdf/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.pdf`](./pdf/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.pdf)
+- 📐 **Plano CAD (.dwg):** [`dwg/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.dwg`](./dwg/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.dwg)
+- 📊 **Planilla de Cálculo (.xlsx):** [`xlsx/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.xlsx`](./xlsx/PE-VU_Proyecto_Electrico_Vivienda_Unifamiliar.xlsx)
 
 ---
 
